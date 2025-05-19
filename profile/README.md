@@ -7,7 +7,7 @@
 <br />
 
 [![Join Us on Discord](https://img.shields.io/badge/Join%20Us-Discord-blueviolet)](YOUR_DISCORD_INVITE_LINK)
-[![Follow us on Instagram](https://img.shields.io/badge/Follow%20Us-Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/SyndicateTech)
+[![Follow us on Instagram](https://img.shields.io/badge/Follow%20Us-Instagram-E4405F?logo=instagram&logoColor=fff)](YOUR_INSTAGRAM_LINK)
 
 <p align="center"> We at the Club of Syndicate ❤️ Innovation and Collaboration!</p>
 
