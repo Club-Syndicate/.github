@@ -24,7 +24,7 @@ Right now, our community is working on exciting collaborative projects, and we e
 <h3>Connect With us on</h3>
 <a href="YOUR_LINKEDIN_LINK" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:syndicatex.25@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/SyndicateTech" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
+<a href="YOUR_INSTAGRA_LINK" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
 <a href="YOUR_DISCORD_INVITE_LINK" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 </div>
 
